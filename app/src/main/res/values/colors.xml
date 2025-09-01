@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_default">#fabfb7</color>
+    <color name="color_delete">#b0f2c2</color>
+    <color name="color_details">#ffda9e</color>
+    <color name="color_status_todo">#c5c6c8</color>
+    <color name="color_status_done">#b2e2f2</color>
+</resources>
