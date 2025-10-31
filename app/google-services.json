@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "382613093121",
+    "firebase_url": "https://taskapp-eliabe-default-rtdb.firebaseio.com",
+    "project_id": "taskapp-eliabe",
+    "storage_bucket": "taskapp-eliabe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382613093121:android:0c3bda834dd336d3b5f900",
+        "android_client_info": {
+          "package_name": "com.eliabe.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVq2vnMJKVH1o-zDB_FehAnxk8LxICzHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
