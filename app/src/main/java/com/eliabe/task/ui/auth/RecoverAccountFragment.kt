@@ -6,24 +6,11 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
+import androidx.core.view.isVisible
 import com.eliabe.task.R
 import com.eliabe.task.databinding.FragmentRecoverAccountBinding
 import com.eliabe.task.util.initToolbar
 import com.eliabe.task.util.showBottomSheet
-
-package com.eduardo.task.ui.auth
-
-import android.os.Bundle
-import androidx.fragment.app.Fragment
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
-import android.widget.Toast
-import androidx.core.view.isVisible
-import com.eduardo.task.R
-import com.eduardo.task.databinding.FragmentRecoverAccountBinding
-import com.eduardo.task.util.initToolbar
-import com.eduardo.task.util.showBottomSheet
 import com.google.firebase.auth.FirebaseAuth
 
 class RecoverAccountFragment : Fragment() {

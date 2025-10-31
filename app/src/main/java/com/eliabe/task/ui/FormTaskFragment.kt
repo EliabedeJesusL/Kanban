@@ -9,11 +9,11 @@ import android.widget.Toast
 import androidx.core.view.isVisible
 import androidx.navigation.fragment.findNavController
 import com.eliabe.task.R
+import com.eliabe.task.data.model.Status
+import com.eliabe.task.data.model.Task
 import com.eliabe.task.databinding.FragmentFormTaskBinding
 import com.eliabe.task.util.initToolbar
 import com.eliabe.task.util.showBottomSheet
-import com.google.android.gms.common.api.Status
-import com.google.android.gms.tasks.Task
 import com.google.firebase.Firebase
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.auth
